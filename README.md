@@ -1,5 +1,5 @@
 # Pomodoro Pad
-Pomodoro Pad is a 3 key macropad with a rotary encoder and an OLED Display, using KMK firmware.
+Pomodoro Pad is a 3 key macropad with a rotary encoder and an OLED Display, using KMK firmware. It will act as a pomodoro timer with a start, pause/resume, and reset button, with the rotary encoder to set the timer length. (The firmware will be updated to work after the parts arrive.)
 
 ## CAD Model:
 ![image](https://github.com/user-attachments/assets/ac84a068-afe4-489a-b713-c55431be10f5)
