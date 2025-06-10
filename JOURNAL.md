@@ -10,7 +10,6 @@ I spent my time reading and understanding the hackclub guide to creating a macro
 
 ![image](https://github.com/user-attachments/assets/e6b7c5a5-1a23-4207-a153-51544bfc1687)
 ![image](https://github.com/user-attachments/assets/27d15bec-d3a1-4e15-98b4-e43eb503bd07)
-![image](https://github.com/user-attachments/assets/9c789085-0d63-44b9-98a1-16a6ad423720)
 
 ## Session 2 - 07/06/25, 2 hours
 I created the case in Fusion 360.
@@ -22,4 +21,5 @@ I created the case in Fusion 360.
 I realised my OLED display was upside down so fixed that and rerouted everything. I then readjusted the sizes for my case as they were a bit off and learnt how to import 3d models to make sure everything fit. 
 
 ![image](https://github.com/user-attachments/assets/d3eaf4cb-ebc4-4438-bb6a-71e8d38fc327)
+![image](https://github.com/user-attachments/assets/5a36d8d0-b1e9-4ec6-af9f-1cda6bf0667c)
 ![image](https://github.com/user-attachments/assets/6363ee6f-dd60-405a-a02a-4eeb37075259)
